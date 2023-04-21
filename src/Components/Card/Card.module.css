@@ -1,0 +1,14 @@
+.ejemplo{
+    list-style: none;
+    font-size: 1.5rem;
+
+}
+.movieImage{
+    border-radius: 10px;
+    background-color: azure;
+}
+
+.titulos{
+    text-decoration: none;
+    color: aliceblue;
+}

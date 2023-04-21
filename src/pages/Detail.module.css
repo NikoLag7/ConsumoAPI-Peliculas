@@ -1,0 +1,23 @@
+.detailsContainer{
+    margin:7rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.col{
+    max-width: 600px;
+    margin:1rem;
+}
+
+
+.movieImage {
+    border-radius: 15px;
+    max-height: 30rem;
+}
+
+.detail{
+    font-size: 25px;
+    line-height: 2.5rem;
+}
